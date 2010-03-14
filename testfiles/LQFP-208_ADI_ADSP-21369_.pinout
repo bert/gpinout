@@ -4,19 +4,19 @@ COMPONENT="ADSP-21369"
 VENDOR="ADI"
 PINOUT=
 {
-1 VDDINT
-2 DATA28
-3 DATA27
-4 GND
-5 VDDEXT
-6 DATA26
-7 DATA25
-8 DATA24
-9 DATA23
-10 GND
-11 VDDINT
-12 DATA22
-13 DATA21
+        "1", "VDDINT",
+        "2", "DATA28",
+        "3", "DATA27",
+        "4", "GND",
+        "5", "VDDEXT",
+        "6", "DATA26",
+        "7", "DATA25",
+        "8", "DATA24",
+        "9", "DATA23",
+        "10", "GND",
+        "11", "VDDINT",
+        "12", "DATA22",
+        "13", "DATA21",
 14 DATA20
 15 VDDEXT
 16 GND
