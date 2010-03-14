@@ -1,0 +1,16 @@
+FOOTPRINT_TYPE="SOT"
+FOOTPRINT_NAME="SOT886"
+COMPONENT="74CBTLV1G125"
+VENDOR="NXP"
+PINOUT= 
+{
+        "1", "\_OE\_",
+        "2", "A",
+        "3", "GND",
+        "4", "B",
+        "5", "NC",
+        "6", "VCC"
+}
+
+# EOF #
+

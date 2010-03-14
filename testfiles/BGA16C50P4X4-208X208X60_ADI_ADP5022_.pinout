@@ -1,0 +1,25 @@
+FOOTPRINT_TYPE="BGA"
+FOOTPRINT_NAME="BGA16C50P4X4_208X208X60"
+COMPONENT="ADP5022"
+VENDOR="ADI"
+PINOUT=
+{
+        "A1", "VOUT3",
+        "A2", "AGND",
+        "A3", "VIN3",
+        "A4", "VDDA",
+        "B1", "VIN1",
+        "B2", "EN1",
+        "B3", "EN2",
+        "B4", "VIN2",
+        "C1", "SW1",
+        "C2", "EN3",
+        "C3", "MODE",
+        "C4", "SW2",
+        "D1", "PGND1",
+        "D2", "VOUT1",
+        "D3", "VOUT2",
+        "D4", "PGND2"
+}
+
+# EOF #
