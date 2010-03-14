@@ -17,12 +17,12 @@ PINOUT=
         "11", "VDDINT",
         "12", "DATA22",
         "13", "DATA21",
-14 DATA20
-15 VDDEXT
-16 GND
-17 DATA19
-18 DATA18
-19 VDDINT
+        "14", "DATA20",
+        "15", "VDDEXT",
+        "16", "GND",
+        "17", "DATA19",
+        "18", "DATA18",
+        "19", "VDDINT",
 20 GND
 21 DATA17
 22 VDDINT
