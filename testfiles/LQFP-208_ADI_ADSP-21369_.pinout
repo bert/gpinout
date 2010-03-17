@@ -53,26 +53,26 @@ PINOUT=
         "47", "DATA3",
         "48", "DATA0",
         "49", "DATA1",
-50 VDDEXT
-51 GND
-52 VDDINT
-53 VDDINT
-54 GND
-55 VDDEXT
-56 ADDR0
-57 ADDR2
-58 ADDR1
-59 ADDR4
-60 ADDR3
-61 ADDR5
-62 GND
-63 VDDINT
-64 GND
-65 VDDEXT
-66 ADDR6
-67 ADDR7
-68 ADDR8
-69 ADDR9
+        "50", "VDDEXT",
+        "51", "GND",
+        "52", "VDDINT",
+        "53", "VDDINT",
+        "54", "GND",
+        "55", "VDDEXT",
+        "56", "ADDR0",
+        "57", "ADDR2",
+        "58", "ADDR1",
+        "59", "ADDR4",
+        "60", "ADDR3",
+        "61", "ADDR5",
+        "62", "GND",
+        "63", "VDDINT",
+        "64", "GND",
+        "65", "VDDEXT",
+        "66", "ADDR6",
+        "67", "ADDR7",
+        "68", "ADDR8",
+        "69", "ADDR9",
 70 ADDR10
 71 GND
 72 VDDINT
