@@ -23,36 +23,36 @@ PINOUT=
         "17", "DATA19",
         "18", "DATA18",
         "19", "VDDINT",
-20 GND
-21 DATA17
-22 VDDINT
-23 GND
-24 VDDINT
-25 GND
-26 DATA16
-27 DATA15
-28 DATA14
-29 DATA13
-30 DATA12
-31 VDDEXT
-32 GND
-33 VDDINT
-34 GND
-35 DATA11
-36 DATA10
-37 DATA9
-38 DATA8
-39 DATA7
-40 DATA6
-41 VDDEXT
-42 GND
-43 VDDINT
-44 DATA4
-45 DATA5
-46 DATA2
-47 DATA3
-48 DATA0
-49 DATA1
+        "20", "GND",
+        "21", "DATA17",
+        "22", "VDDINT",
+        "23", "GND",
+        "24", "VDDINT",
+        "25", "GND",
+        "26", "DATA16",
+        "27", "DATA15",
+        "28", "DATA14",
+        "29", "DATA13",
+        "30", "DATA12",
+        "31", "VDDEXT",
+        "32", "GND",
+        "33", "VDDINT",
+        "34", "GND",
+        "35", "DATA11",
+        "36", "DATA10",
+        "37", "DATA9",
+        "38", "DATA8",
+        "39", "DATA7",
+        "40", "DATA6",
+        "41", "VDDEXT",
+        "42", "GND",
+        "43", "VDDINT",
+        "44", "DATA4",
+        "45", "DATA5",
+        "46", "DATA2",
+        "47", "DATA3",
+        "48", "DATA0",
+        "49", "DATA1",
 50 VDDEXT
 51 GND
 52 VDDINT
