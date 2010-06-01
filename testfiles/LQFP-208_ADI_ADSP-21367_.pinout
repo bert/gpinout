@@ -153,16 +153,16 @@ PINOUT=
         "147", "DAI_P06 (SD1B)",
         "148", "DAI_P07 (SCLK1)",
         "149", "DAI_P05 (SD1A)",
-150 VDDEXT
-151 GND
-152 VDDINT
-153 GND
-154 VDDINT
-155 GND
-156 VDDINT
-157 VDDINT
-158 VDDINT
-159 GND
+        "150", "VDDEXT",
+        "151", "GND",
+        "152", "VDDINT",
+        "153", "GND",
+        "154", "VDDINT",
+        "155", "GND",
+        "156", "VDDINT",
+        "157", "VDDINT",
+        "158", "VDDINT",
+        "159", "GND",
 160 VDDINT
 161 VDDINT
 162 VDDINT
