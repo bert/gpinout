@@ -1,0 +1,25 @@
+FOOTPRINT_TYPE="DIP"
+FOOTPRINT_NAME="DIP14300"
+COMPONENT="7400"
+VENDOR="generic"
+TOTAL_LEADS=14
+PINOUT= 
+{
+        "1", "1A",
+        "2", "1B",
+        "3", "1Y",
+        "4", "2A",
+        "5", "2B",
+        "6", "2Y",
+        "7", "GND",
+        "8", "3Y",
+        "9", "3A",
+        "10", "3B",
+        "11", "4Y",
+        "12", "4A",
+        "13", "4B",
+        "14", "VCC"
+}
+
+# EOF #
+
