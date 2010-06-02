@@ -193,25 +193,25 @@ PINOUT=
         "187", "DPI_P10 (UART0RX)",
         "188", "DPI_P09 (UART0TX)",
         "189", "DPI_P08 (SPIFLG3)",
-190 DPI_P07 (SPIFLG2)
-191 VDDEXT
-192 GND
-193 VDDINT
-194 GND
-195 DPI_P06 (SPIFLG1)
-196 DPI_P05 (SPIFLG0)
-197 DPI_P04 (SPIDS)
-198 DPI_P03 (SPICLK)
-199 DPI_P01 (SPIMOSI)
-200 DPI_P02 (SPIMISO)
-201 \_RESETOUT\_
-202 \_RESET\_
-203 VDDEXT
-204 GND
-205 DATA30
-206 DATA31
-207 DATA29
-208 VDDINT
+        "190", "DPI_P07 (SPIFLG2)",
+        "191", "VDDEXT",
+        "192", "GND",
+        "193", "VDDINT",
+        "194", "GND",
+        "195", "DPI_P06 (SPIFLG1)",
+        "196", "DPI_P05 (SPIFLG0)",
+        "197", "DPI_P04 (SPIDS)",
+        "198", "DPI_P03 (SPICLK)",
+        "199", "DPI_P01 (SPIMOSI)",
+        "200", "DPI_P02 (SPIMISO)",
+        "201", "\_RESETOUT\_",
+        "202", "\_RESET\_",
+        "203", "VDDEXT",
+        "204", "GND",
+        "205", "DATA30",
+        "206", "DATA31",
+        "207", "DATA29",
+        "208", "VDDINT"
 }
 
 # EOF #
