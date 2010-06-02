@@ -2,47 +2,49 @@ FOOTPRINT_TYPE="BGA"
 FOOTPRINT_NAME="BGA256C127P20X20_2400X2400X170"
 COMPONENT="ADSP-21367"
 VENDOR="ADI"
+TOTAL_LEADS=256
 PINOUT=
-A01 NC
-A02 TDI 
-A03 TMS 
-A04 CLK_CFG0 
-A05 CLK_CFG1 
-A06 \_EMU\_
-A07 DAI_P04 (SFS0) 
-A08 DAI_P01 (SD0A) 
-A09 DPI_P14 (TIMER1) 
-A10 DPI_P12 (TWI_CLK) 
-A11 DPI_P10 (UART0RX) 
-A12 DPI_P09 (UART0TX) 
-A13 DPI_P07 (SPIFLG2) 
-A14 DPI_P06 (SPIFLG1) 
-A15 DPI_P03 (SPICLK) 
-A16 DPI_P02 (SPIMISO) 
-A17 \_RESETOUT\_ 
-A18 DATA31 
-A19 NC 
-A20 NC 
-B01 DAI_P05 (SD1A) 
-B02 SDCLK11 
-B03 \_TRST\_ 
-B04 TCK 
-B05 BOOT_CFG0 
-B06 BOOT_CFG1 
-B07 TDO 
-B08 DAI_P03 (SCLK0) 
-B09 DAI_P02 (SD0B) 
-B10 DPI_P13 (TIMER0) 
-B11 DPI_P11 (TWI_DATA) 
-B12 DPI_P08 (SPIFLG3) 
-B13 DPI_P05 (SPIFLG0) 
-B14 DPI_P04 (SPIDS) 
-B15 DPI_P01 (SPIMOSI) 
-B16 \_RESET\_ 
-B17 DATA30 
-B18 DATA29 
-B19 DATA28 
-B20 NC 
+{
+        "A01", "NC",
+        "A02", "TDI",
+        "A03", "TMS",
+        "A04", "CLK_CFG0",
+        "A05", "CLK_CFG1",
+        "A06", "\_EMU\_",
+        "A07", "DAI_P04 (SFS0)",
+        "A08", "DAI_P01 (SD0A)",
+        "A09", "DPI_P14 (TIMER1)",
+        "A10", "DPI_P12 (TWI_CLK)",
+        "A11", "DPI_P10 (UART0RX)",
+        "A12", "DPI_P09 (UART0TX)",
+        "A13", "DPI_P07 (SPIFLG2)",
+        "A14", "DPI_P06 (SPIFLG1)",
+        "A15", "DPI_P03 (SPICLK)",
+        "A16", "DPI_P02 (SPIMISO)",
+        "A17", "\_RESETOUT\_",
+        "A18", "DATA31",
+        "A19", "NC",
+        "A20", "NC",
+        "B01", "DAI_P05 (SD1A)",
+        "B02", "SDCLK11",
+        "B03", "\_TRST\_",
+        "B04", "TCK",
+        "B05", "BOOT_CFG0",
+        "B06", "BOOT_CFG1",
+        "B07", "TDO",
+        "B08", "DAI_P03 (SCLK0)",
+        "B09", "DAI_P02 (SD0B)",
+        "B10", "DPI_P13 (TIMER0)",
+        "B11", "DPI_P11 (TWI_DATA)",
+        "B12", "DPI_P08 (SPIFLG3)",
+        "B13", "DPI_P05 (SPIFLG0)",
+        "B14", "DPI_P04 (SPIDS)",
+        "B15", "DPI_P01 (SPIMOSI)",
+        "B16", "\_RESET\_",
+        "B17", "DATA30",
+        "B18", "DATA29",
+        "B19", "DATA28",
+        "B20", "NC",
 C01 DAI_P09 (SD2A) 
 C02 DAI_P07 (SCLK1) 
 C03 GND 
@@ -258,5 +260,7 @@ Y17 ADDR3
 Y18 GND
 Y19 GND
 Y20 NC
+}
 
 # EOF #
+
