@@ -1,0 +1,19 @@
+FOOTPRINT_TYPE="SOP"
+FOOTPRINT_NAME="SOP127P820X200-8"
+COMPONENT="7400"
+VENDOR="generic"
+TOTAL_LEADS=8
+PINOUT= 
+{
+        "1", "1A",
+        "2", "1B",
+        "3", "1Y",
+        "4", "GND",
+        "5", "2Y",
+        "6", "2A",
+        "7", "2B",
+        "8", "VCC"
+}
+
+# EOF #
+
