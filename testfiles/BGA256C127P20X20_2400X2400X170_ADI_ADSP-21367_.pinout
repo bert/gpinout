@@ -45,61 +45,62 @@ PINOUT=
         "B18", "DATA29",
         "B19", "DATA28",
         "B20", "NC",
-C01 DAI_P09 (SD2A) 
-C02 DAI_P07 (SCLK1) 
-C03 GND 
-C04 VDDEXT 
-C05 GND D05 GND
-C06 GND 
-C07 VDDINT 
-C08 GND 
-C09 GND 
-C10 VDDINT 
-C11 GND
-C12 GND
-C13 VDDINT
-C14 GND
-C15 GND
-C16 VDDINT
-C17 VDDINT
-C18 VDDINT
-C19 DATA27
-C20 NC
-D01 DAI_P10 (SD2B)
-D02 DAI_P06 (SD1B)
-D03 GND
-D04 VDDEXT
-D06 VDDEXT
-D07 VDDINT
-D08 GND
-D09 VDDEXT
-D10 VDDINT
-D11 GND
-D12 VDDEXT
-D13 VDDINT
-D14 GND
-D15 VDDEXT
-D16 GND
-D17 VDDEXT
-D18 GND
-D19 DATA26
-D20 DATA24
-E01 DAI_P11 (SD3A) 
-E02 DAI_P08 (SFS1) 
-E03 VDDINT 
-E04 VDDINT 
-E17 GND 
-E18 GND 
-E19 DATA25 
-E20 DATA23 
-F01 DAI_P14 (SFS3) 
-F02 DAI_P12 (SD3B) 
-F03 GND 
-F04 GND 
-F17 VDDEXT 
-F18 GND 
-F19 GND 
-F20 DATA21 
+        "C01", "DAI_P09 (SD2A)",
+        "C02", "DAI_P07 (SCLK1)",
+        "C03", "GND",
+        "C04", "VDDEXT",
+        "C05", "GND",
+        "C06", "GND",
+        "C07", "VDDINT",
+        "C08", "GND",
+        "C09", "GND",
+        "C10", "VDDINT",
+        "C11", "GND",
+        "C12", "GND",
+        "C13", "VDDINT",
+        "C14", "GND",
+        "C15", "GND",
+        "C16", "VDDINT",
+        "C17", "VDDINT",
+        "C18", "VDDINT",
+        "C19", "DATA27",
+        "C20", "NC",
+        "D01", "DAI_P10 (SD2B)",
+        "D02", "DAI_P06 (SD1B)",
+        "D03", "GND",
+        "D04", "VDDEXT",
+        "D05", "GND",
+        "D06", "VDDEXT",
+        "D07", "VDDINT",
+        "D08", "GND",
+        "D09", "VDDEXT",
+        "D10", "VDDINT",
+        "D11", "GND",
+        "D12", "VDDEXT",
+        "D13", "VDDINT",
+        "D14", "GND",
+        "D15", "VDDEXT",
+        "D16", "GND",
+        "D17", "VDDEXT",
+        "D18", "GND",
+        "D19", "DATA26",
+        "D20", "DATA24",
+        "E01", "DAI_P11 (SD3A)",
+        "E02", "DAI_P08 (SFS1)",
+        "E03", "VDDINT",
+        "E04", "VDDINT",
+        "E17", "GND",
+        "E18", "GND",
+        "E19", "DATA25",
+        "E20", "DATA23",
+        "F01", "DAI_P14 (SFS3)",
+        "F02", "DAI_P12 (SD3B)",
+        "F03", "GND",
+        "F04", "GND",
+        "F17", "VDDEXT",
+        "F18", "GND",
+        "F19", "GND",
+        "F20", "DATA21",
 G01 DAI_P15 (SD4A) 
 G02 DAI_P13 (SCLK3) 
 G03 GND 
