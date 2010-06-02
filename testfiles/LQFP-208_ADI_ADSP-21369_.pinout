@@ -212,7 +212,8 @@ PINOUT=
         "205", "DATA30",
         "206", "DATA31",
         "207", "DATA29",
-        "208", "VDDINT",
+        "208", "VDDINT"
 }
 
 # EOF #
+
