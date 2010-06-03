@@ -165,102 +165,102 @@ PINOUT=
         "P18", "VDDINT",
         "P19", "DATA8",
         "P20", "DATA9",
-R01 \_SDWE\_
-R02 \_SDRAS\_
-R03 GND
-R04 GND 
-R17 VDDEXT 
-R18 GND 
-R19 DATA6 
-R20 DATA7 
-T01 SDCKE
-T02 \_SDCAS\_
-T03 GND
-T04 VDDEXT
-T17 GND
-T18 GND
-T19 DATA5
-T20 DATA4
-U01 \_MS0\_ 
-U02 \_MS1\_ 
-U03 VDDINT 
-U04 GND 
-U05 VDDEXT 
-U06 GND 
-U07 VDDEXT 
-U08 VDDINT 
-U09 VDDEXT 
-U10 GND 
-U11 VDDEXT 
-U12 VDDINT 
-U13 VDDEXT 
-U14 VDDEXT 
-U15 VDDINT 
-U16 VDDEXT 
-U17 VDDINT 
-U18 VDDINT 
-U19 DATA0 
-U20 DATA2 
-V01 ADDR22 
-V02 ADDR23 
-V03 VDDINT 
-V04 GND 
-V05 GND 
-V06 GND 
-V07 GND 
-V08 VDDINT 
-V09 GND 
-V10 GND 
-V11 GND 
-V12 VDDINT 
-V13 VDDEXT 
-V14 GND 
-V15 VDDINT
-V16 GND
-V17 GND
-V18 GND
-V19 DATA1
-V20 DATA3
-W01 GND
-W02 ADDR21
-W03 ADDR19 
-W04 ADDR20 
-W05 ADDR17 
-W06 ADDR16 
-W07 ADDR15 
-W08 ADDR14 
-W09 AVDD 
-W10 AVSS 
-W11 ADDR13 
-W12 ADDR12 
-W13 ADDR10 
-W14 ADDR8 
-W15 ADDR5 
-W16 ADDR4 
-W17 ADDR1 
-W18 ADDR2 
-W19 ADDR0 
-W20 NC 
-Y01 GND
-Y02 NC
-Y03 NC
-Y04 ADDR18
-Y05 NC
-Y06 NC
-Y07 XTAL
-Y08 CLKIN
-Y09 NC
-Y10 NC
-Y11 NC
-Y12 NC
-Y13 ADDR11
-Y14 ADDR9
-Y15 ADDR7
-Y16 ADDR6
-Y17 ADDR3
-Y18 GND
-Y19 GND
-Y20 NC
+        "R01", "\_SDWE\_",
+        "R02", "\_SDRAS\_",
+        "R03", "GND",
+        "R04", "GND",
+        "R17", "VDDEXT",
+        "R18", "GND",
+        "R19", "DATA6",
+        "R20", "DATA7",
+        "T01", "SDCKE",
+        "T02", "\_SDCAS\_",
+        "T03", "GND",
+        "T04", "VDDEXT",
+        "T17", "GND",
+        "T18", "GND",
+        "T19", "DATA5",
+        "T20", "DATA4",
+        "U01", "\_MS0\_",
+        "U02", "\_MS1\_",
+        "U03", "VDDINT",
+        "U04", "GND",
+        "U05", "VDDEXT",
+        "U06", "GND",
+        "U07", "VDDEXT",
+        "U08", "VDDINT",
+        "U09", "VDDEXT",
+        "U10", "GND",
+        "U11", "VDDEXT",
+        "U12", "VDDINT",
+        "U13", "VDDEXT",
+        "U14", "VDDEXT",
+        "U15", "VDDINT",
+        "U16", "VDDEXT",
+        "U17", "VDDINT",
+        "U18", "VDDINT",
+        "U19", "DATA0",
+        "U20", "DATA2",
+        "V01", "ADDR22",
+        "V02", "ADDR23",
+        "V03", "VDDINT",
+        "V04", "GND",
+        "V05", "GND",
+        "V06", "GND",
+        "V07", "GND",
+        "V08", "VDDINT",
+        "V09", "GND",
+        "V10", "GND",
+        "V11", "GND",
+        "V12", "VDDINT",
+        "V13", "VDDEXT",
+        "V14", "GND",
+        "V15", "VDDINT",
+        "V16", "GND",
+        "V17", "GND",
+        "V18", "GND",
+        "V19", "DATA1",
+        "V20", "DATA3",
+        "W01", "GND",
+        "W02", "ADDR21",
+        "W03", "ADDR19",
+        "W04", "ADDR20",
+        "W05", "ADDR17",
+        "W06", "ADDR16",
+        "W07", "ADDR15",
+        "W08", "ADDR14",
+        "W09", "AVDD",
+        "W10", "AVSS",
+        "W11", "ADDR13",
+        "W12", "ADDR12",
+        "W13", "ADDR10",
+        "W14", "ADDR8",
+        "W15", "ADDR5",
+        "W16", "ADDR4",
+        "W17", "ADDR1",
+        "W18", "ADDR2",
+        "W19", "ADDR0",
+        "W20", "NC",
+        "Y01", "GND",
+        "Y02", "NC",
+        "Y03", "NC",
+        "Y04", "ADDR18",
+        "Y05", "NC",
+        "Y06", "NC",
+        "Y07", "XTAL",
+        "Y08", "CLKIN",
+        "Y09", "NC",
+        "Y10", "NC",
+        "Y11", "NC",
+        "Y12", "NC",
+        "Y13", "ADDR11",
+        "Y14", "ADDR9",
+        "Y15", "ADDR7",
+        "Y16", "ADDR6",
+        "Y17", "ADDR3",
+        "Y18", "GND",
+        "Y19", "GND",
+        "Y20", "NC"
 }
 
 # EOF #
