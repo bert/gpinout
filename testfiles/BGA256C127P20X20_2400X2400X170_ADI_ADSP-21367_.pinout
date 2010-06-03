@@ -101,70 +101,70 @@ PINOUT=
         "F18", "GND",
         "F19", "GND",
         "F20", "DATA21",
-G01 DAI_P15 (SD4A) 
-G02 DAI_P13 (SCLK3) 
-G03 GND 
-G04 VDDEXT 
-G17 VDDINT 
-G18 VDDINT 
-G19 DATA22 
-G20 DATA20 
-H01 DAI_P17 (SD5A)
-H02 DAI_P16 (SD4B)
-H03 VDDINT
-H04 VDDINT
-H17 VDDEXT
-H18 GND
-H19 DATA19
-H20 DATA18
-J01 DAI_P19 (SCLK5) 
-J02 DAI_P18 (SD5B) 
-J03 GND 
-J04 GND 
-J17 GND 
-J18 GND 
-J19 GND 
-J20 DATA17 
-K01 FLAG0 
-K02 DAI_P20 (SFS5) 
-K03 GND 
-K04 VDDEXT 
-K17 VDDINT 
-K18 VDDINT 
-K19 GND 
-K20 DATA16 
-L01 FLAG2 
-L02 FLAG1 
-L03 VDDINT 
-L04 VDDINT 
-L17 VDDINT 
-L18 VDDINT 
-L19 DATA15 
-L20 DATA14 
-M01 ACK
-M02 FLAG3
-M03 GND
-M04 GND
-M17 VDDEXT
-M18 GND
-M19 DATA12
-M20 DATA13
-N01 \_RD\_ 
-N02 SDCLK0 
-N03 GND 
-N04 VDDEXT 
-N17 GND 
-N18 GND 
-N19 DATA11 
-N20 DATA10 
-P01 SDA10 
-P02 \_WR\_ 
-P03 VDDINT 
-P04 VDDINT 
-P17 VDDINT 
-P18 VDDINT 
-P19 DATA8 
-P20 DATA9 
+        "G01", "DAI_P15 (SD4A)",
+        "G02", "DAI_P13 (SCLK3)",
+        "G03", "GND",
+        "G04", "VDDEXT",
+        "G17", "VDDINT",
+        "G18", "VDDINT",
+        "G19", "DATA22",
+        "G20", "DATA20",
+        "H01", "DAI_P17 (SD5A)",
+        "H02", "DAI_P16 (SD4B)",
+        "H03", "VDDINT",
+        "H04", "VDDINT",
+        "H17", "VDDEXT",
+        "H18", "GND",
+        "H19", "DATA19",
+        "H20", "DATA18",
+        "J01", "DAI_P19 (SCLK5)",
+        "J02", "DAI_P18 (SD5B)",
+        "J03", "GND",
+        "J04", "GND",
+        "J17", "GND",
+        "J18", "GND",
+        "J19", "GND",
+        "J20", "DATA17",
+        "K01", "FLAG0",
+        "K02", "DAI_P20 (SFS5)",
+        "K03", "GND",
+        "K04", "VDDEXT",
+        "K17", "VDDINT",
+        "K18", "VDDINT",
+        "K19", "GND",
+        "K20", "DATA16",
+        "L01", "FLAG2",
+        "L02", "FLAG1",
+        "L03", "VDDINT",
+        "L04", "VDDINT",
+        "L17", "VDDINT",
+        "L18", "VDDINT",
+        "L19", "DATA15",
+        "L20", "DATA14",
+        "M01", "ACK",
+        "M02", "FLAG3",
+        "M03", "GND",
+        "M04", "GND",
+        "M17", "VDDEXT",
+        "M18", "GND",
+        "M19", "DATA12",
+        "M20", "DATA13",
+        "N01", "\_RD\_",
+        "N02", "SDCLK0",
+        "N03", "GND",
+        "N04", "VDDEXT",
+        "N17", "GND",
+        "N18", "GND",
+        "N19", "DATA11",
+        "N20", "DATA10",
+        "P01", "SDA10",
+        "P02", "\_WR\_",
+        "P03", "VDDINT",
+        "P04", "VDDINT",
+        "P17", "VDDINT",
+        "P18", "VDDINT",
+        "P19", "DATA8",
+        "P20", "DATA9",
 R01 \_SDWE\_
 R02 \_SDRAS\_
 R03 GND
