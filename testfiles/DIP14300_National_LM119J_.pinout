@@ -1,0 +1,24 @@
+FOOTPRINT_TYPE="DIP"
+FOOTPRINT_NAME="DIP14300"
+COMPONENT="LM119J"
+VENDOR="National"
+TOTAL_LEADS=14
+PINOUT=
+{
+        "1", "NC",
+        "2", "NC",
+        "3", "GND1",
+        "4", "+INPUT1",
+        "5", "-INPUT",
+        "6", "V-",
+        "7", "OUTPUT2",
+        "8", "GND2",
+        "9", "+INPUT2",
+        "10", "-INPUT2",
+        "11", "V+",
+        "12", "OUTPUT1",
+        "13", "NC",
+        "14", "NC"
+}
+
+# EOF #
