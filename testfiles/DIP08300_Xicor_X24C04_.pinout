@@ -1,0 +1,19 @@
+FOOTPRINT_TYPE="DIP"
+FOOTPRINT_NAME="DIP08300"
+COMPONENT="X24C04"
+VENDOR="Xicor"
+TOTAL_LEADS=8
+PINOUT=
+{
+        "1", "A0",
+        "2", "A1",
+        "3", "A3",
+        "4", "VSS",
+        "5", "SDA",
+        "6", "SCL",
+        "7", "TEST",
+        "8", "VCC"
+}
+
+# EOF #
+
