@@ -1,0 +1,25 @@
+FOOTPRINT_TYPE="DIP"
+FOOTPRINT_NAME="DIP14300"
+COMPONENT="74393"
+VENDOR="generic"
+TOTAL_LEADS=14
+PINOUT= 
+{
+        "1", "\_CLK(1)\_",
+        "2", "RESET(1)",
+        "3", "QA(1)",
+        "4", "QB(1)",
+        "5", "QC(1)",
+        "6", "QD(1)",
+        "7", "GND",
+        "8", "QD(2)",
+        "9", "QC(2)",
+        "10", "QB(2)",
+        "11", "QA(2)",
+        "12", "RESET(2)",
+        "13", "CLK(2)",
+        "14", "VCC"
+}
+
+# EOF #
+
