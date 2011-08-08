@@ -1,0 +1,25 @@
+FOOTPRINT_TYPE="QFN"
+FOOTPRINT_NAME="QFN14R50X150P5X2-365X365X100"
+COMPONENT="SN74LV4066AN"
+VENDOR="Texas Instruments"
+TOTAL_LEADS=14
+PINOUT= 
+{
+        "1", "1A",
+        "2", "1B",
+        "3", "2B",
+        "4", "2A",
+        "5", "2C",
+        "6", "3C",
+        "7", "GND",
+        "8", "3A",
+        "9", "3B",
+        "10", "4B",
+        "11", "4A",
+        "12", "4C",
+        "13", "1C",
+        "14", "VCC"
+}
+
+# EOF #
+
