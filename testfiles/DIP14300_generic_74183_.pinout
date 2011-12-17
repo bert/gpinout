@@ -1,0 +1,26 @@
+FOOTPRINT_TYPE="DIP"
+FOOTPRINT_NAME="DIP14300"
+COMPONENT="74183"
+VENDOR="generic"
+DESCRIPTION="2 carry-save full adders"
+TOTAL_LEADS=14
+PINOUT= 
+{
+        "1", "1A",
+        "2", "NC",
+        "3", "1B",
+        "4", "1Cn",
+        "5", "1Cn+1",
+        "6", "1Sum",
+        "7", "GND",
+        "8", "2Sum",
+        "9", "NC",
+        "10", "2Cn+1",
+        "11", "2Cn",
+        "12", "2B",
+        "13", "2A",
+        "14", "Vcc"
+}
+
+# EOF #
+
