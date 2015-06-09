@@ -20,6 +20,7 @@ PINOUT=
         "13", "4B",
         "14", "VCC"
 }
-SWAP_RULES=[(A,B),Y]:([(1,2),3],[(4,5),6],[(9,10),8],[(12,13),11])
+# [] swapable gates, () swapable pins, "" generic pin label.
+SWAP_RULES=[("A","B"),"Y"]:([(1,2),3],[(4,5),6],[(9,10),8],[(12,13),11])
 # EOF #
 
