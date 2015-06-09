@@ -20,6 +20,7 @@ PINOUT=
         "13", "1C",
         "14", "VCC"
 }
-
+# [] swapable gates, () swapable pins, "" generic pin label.
+SWAP_RULES=["A","B","C"]:[1,2,13],[4,3,5],[8,9,6],[11,10,12]
 # EOF #
 
