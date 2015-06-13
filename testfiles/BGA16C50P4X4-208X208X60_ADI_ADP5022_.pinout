@@ -22,6 +22,7 @@ PINOUT=
         "D3", "VOUT2",
         "D4", "PGND2"
 }
-
+# [] swapable gates, () swapable pins, "" generic pin label.
+SWAP_RULES=["VIN","EN","SW","VOUT"]:["B1","B2","C1","D2"],["B4","B3","C4","D3"]
 # EOF #
 
